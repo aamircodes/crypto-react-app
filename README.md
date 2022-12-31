@@ -1,5 +1,4 @@
-![Screenshot of app]([http://url/to/img.png](https://imgur.com/NMcqguC))
-
+https://imgur.com/NMcqguC
 
 # Getting Started with Create React App
 
